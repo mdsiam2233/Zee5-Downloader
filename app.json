@@ -7,7 +7,7 @@
     "downloader"
   ],
 
-  "repository": "https://github.com/zee5downloadbot/Zee5-Downloader",
+  "repository": "https://github.com/zee5downloader1/Zee5-Downloader",
   
   "env": {
     "WEBHOOK": {
