@@ -3,7 +3,7 @@ If you find any bugs, report at @TroJanzSupport
 
 **My Features**:
 
-👉 Upload as file/video from any NON-DRM Zee5 link
+👉 Upload as file/video from any DRM Zee5 link
 
 👉 Permanent thumbnail support.
 
